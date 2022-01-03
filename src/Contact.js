@@ -8,10 +8,15 @@ import LinkedInIcon from "@mui/icons-material/LinkedIn";
 export function Contact() {
   return (
     <div id="Contact" className="Contact">
-      <h1 id="text" style={{fontSize : "2.5vw"}}> I'd be delighted to hear from you..</h1>
+      <h1 id="text" style={{ fontSize: "2.5vw" }}>
+        {" "}
+        I'd be delighted to hear from you..
+      </h1>
       <IconButton aria-label="Phone">
         <PhoneAndroidIcon />
-        <p id="link" style={{fontSize : "1.5vw"}}>+91-965 925 6401</p>
+        <p id="link" style={{ fontSize: "1.5vw" }}>
+          +91-965 925 6401
+        </p>
       </IconButton>
 
       <IconButton
@@ -20,7 +25,9 @@ export function Contact() {
         aria-label="mailto"
       >
         <EmailIcon />
-        <p id="link" style={{fontSize : "1.5vw"}}>rajkumarm688@gmail.com</p>
+        <p id="link" style={{ fontSize: "1.5vw" }}>
+          rajkumarm688@gmail.com
+        </p>
       </IconButton>
 
       <IconButton
@@ -30,7 +37,9 @@ export function Contact() {
       >
         {" "}
         <GitHubIcon />
-        <p id="link" style={{fontSize : "1.5vw"}}>GitHub</p>
+        <p id="link" style={{ fontSize: "1.5vw" }}>
+          GitHub
+        </p>
       </IconButton>
       <IconButton
         href="https://www.linkedin.com/in/rajkumar-murugesan-b7065495/"
@@ -38,7 +47,9 @@ export function Contact() {
         aria-label="LinkedIn"
       >
         <LinkedInIcon />
-        <p id="link" style={{fontSize : "1.5vw"}}>LinkedIn</p>
+        <p id="link" style={{ fontSize: "1.5vw" }}>
+          LinkedIn
+        </p>
       </IconButton>
     </div>
   );

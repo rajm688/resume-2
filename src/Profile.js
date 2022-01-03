@@ -6,12 +6,13 @@ export function Profile() {
         <img
           id="profilepic"
           src="https://avatars.githubusercontent.com/u/90443069?v=4"
-          alt="Rajkumar" />
+          alt="Rajkumar"
+        />
         <p id="text">
           Raj here, an Indian web developer. I adore creating beautiful and
           functional webpages that intuitively solve problems.
-        </p> 
-    </div>
+        </p>
+      </div>
     </div>
   );
 }
