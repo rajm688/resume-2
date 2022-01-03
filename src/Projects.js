@@ -49,10 +49,10 @@ export function Projects() {
   ];
   return (
     <div id="Projects" className="Projects">
-      <h1 id="link" style={{ fontSize: "2.0vw" }}>
+      <h1 id="link" style={{ fontSize: "1.9vw" }}>
         My Initiatives
       </h1>
-      <h3 id="link" style={{ fontSize: "2.0vw" }}>
+      <h3 id="link" style={{ fontSize: "1.5vw" }}>
         Take a peek at some of my work listed below.
       </h3>{" "}
       <div className="projects">
