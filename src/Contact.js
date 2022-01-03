@@ -14,7 +14,7 @@ export function Contact() {
       </h1>
       <IconButton aria-label="Phone">
         <PhoneAndroidIcon />
-        <p id="link" style={{ fontSize: "1.5vw" }}>
+        <p id="link" style={{ fontSize: "1.5vw", color:"black" }}>
           +91-965 925 6401
         </p>
       </IconButton>
@@ -25,7 +25,7 @@ export function Contact() {
         aria-label="mailto"
       >
         <EmailIcon />
-        <p id="link" style={{ fontSize: "1.5vw" }}>
+        <p id="link" style={{ fontSize: "1.5vw",color:"black"}}>
           rajkumarm688@gmail.com
         </p>
       </IconButton>
@@ -37,7 +37,7 @@ export function Contact() {
       >
         {" "}
         <GitHubIcon />
-        <p id="link" style={{ fontSize: "1.5vw" }}>
+        <p id="link" style={{ fontSize: "1.5vw",color:"black" }}>
           GitHub
         </p>
       </IconButton>
@@ -46,8 +46,8 @@ export function Contact() {
         target="_blank"
         aria-label="LinkedIn"
       >
-        <LinkedInIcon />
-        <p id="link" style={{ fontSize: "1.5vw" }}>
+        <LinkedInIcon />{"   "}
+        <p id="link" style={{ fontSize: "1.5vw",color:"black" }}>
           LinkedIn
         </p>
       </IconButton>
