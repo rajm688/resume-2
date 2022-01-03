@@ -4,9 +4,9 @@
   top: 0;
   display: flex;
   margin-left: auto;
-  width: 100%;
+  width: 98%;
   height: 10vh;
-  padding: 10px 0;
+  padding: 10px 1%;
   align-items: center;
   justify-content: space-between;
   box-shadow: 5px 5px 5px white;
@@ -65,4 +65,10 @@
 }
 #link {
   font-family: "Roboto Mono", monospace;
+}
+#resume{
+ background: linear-gradient(to left, #743ad5, #d53a9d);
+ color:whitesmoke;
+ border-radius: 10px;
+ border: solid  white;
 }
