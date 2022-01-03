@@ -9,6 +9,7 @@
   padding: 10px 0;
   align-items: center;
   justify-content: space-between;
+  box-shadow: 5px 5px 5px white;
 }
 .profile {
   width: 90%;

@@ -9,7 +9,7 @@ export function Profile() {
           alt="Rajkumar"
         />
         <p id="text">
-          Raj here, an Indian web developer. I adore creating beautiful and
+          Raj here, Enthusiastic web developer. I adore creating beautiful and
           functional webpages that intuitively solve problems.
         </p>
       </div>
