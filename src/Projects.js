@@ -39,6 +39,13 @@ export function Projects() {
       Tools: "Javascript DOM",
       link: "https://calculatorwithdom.netlify.app/",
     },
+    {
+      name: "CRUD with Local Data",
+      Details:
+        "Created and performed CRED operation with Local Data ",
+      Tools: "React",
+      link: "https://pokemon-cerd.netlify.app/",
+    },
   ];
   return (
     <div id="Projects" className="Projects">
