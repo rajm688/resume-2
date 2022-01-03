@@ -4,7 +4,7 @@ import Stack from "@mui/material/Stack";
 
 export function About() {
   return (
-    <div className="About">
+    <div id="About" className="About">
       <br />
       <h1 id="link" style={{fontSize : "2.5vw"}}>Greetings,</h1>
       <p id="link" style={{fontSize : "1.5vw"}}>

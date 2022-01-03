@@ -41,7 +41,7 @@ export function Projects() {
     },
   ];
   return (
-    <div className="Projects">
+    <div id="Projects" className="Projects">
       <h1 id="link" style={{ fontSize: "2.0vw" }}>
         My Initiatives
       </h1>

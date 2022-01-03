@@ -1,7 +1,7 @@
 import * as React from "react";
 export function Profile() {
   return (
-    <div className="profile">
+    <div id="Profile" className="profile">
       <div className="content">
         <img
           id="profilepic"

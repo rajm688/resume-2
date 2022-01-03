@@ -7,7 +7,7 @@ import LinkedInIcon from "@mui/icons-material/LinkedIn";
 
 export function Contact() {
   return (
-    <div className="Contact">
+    <div id="Contact" className="Contact">
       <h1 id="text" style={{fontSize : "2.5vw"}}> I'd be delighted to hear from you..</h1>
       <IconButton aria-label="Phone">
         <PhoneAndroidIcon />
