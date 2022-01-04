@@ -16,6 +16,7 @@
   height: 90vh;
   padding: 150px 5% 0 5%;
   background-color: rgb(204, 255, 102);
+  background-image: url("https://i.pinimg.com/originals/16/87/71/168771f41dd5200c6b8ed1d2d53dc8fa.gif");
 }
 .content {
   display: flex;
